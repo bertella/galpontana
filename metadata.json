@@ -1,0 +1,6 @@
+{
+  "name": "Santa Ana Comercial",
+  "description": "Proyecto comercial en construcción: dos locales integrables con depósito y estacionamiento, en Barrio La Madrid, Córdoba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
