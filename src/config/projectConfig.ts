@@ -144,7 +144,7 @@ export const projectRenders: ProjectRenderItem[] = [
     filename: "editadaref.png",
     src: projectConfig.images.deposito,
     title: "Depósito Integrado",
-    caption: "Interior de la nave de depósito con portón metálico de acceso vehicular y piso de hormigón.",
+    caption: "Interior de la nave de depósito con muros de bloques de hormigón, cabriadas metálicas de techo y piso de hormigón.",
     tag: "Depósito Integrado",
     sectionTarget: "#deposito",
   },
